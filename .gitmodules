@@ -1,0 +1,3 @@
+[submodule "devopsserver"]
+	path = devopsserver
+	url = https://github.com/vineela4/devopsserver.git
